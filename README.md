@@ -47,5 +47,5 @@ The **NutriCheckAI** app helps users determine whether a food item is suitable f
 ## 🏗️ Installation & Setup
 ### **1️⃣ Clone the Repository**
 ```bash
-git clone https://github.com/your-username/NutriCheckAI.git
+git clone https://github.com/varshi-28/NutriCheckAI.git
 cd NutriCheckAI
